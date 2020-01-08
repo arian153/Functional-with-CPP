@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+Bin/
+*.user
+*.vcxproj
+Build/.vs/
+Build/Obj/
+*.sln
